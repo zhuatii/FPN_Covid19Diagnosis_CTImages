@@ -1,3 +1,3 @@
 # Description
 
-The CSV files contain the names of the images that have been separated into different folds and labelled as the train, validation or test set.
+The CSV files contain the names of the images that have been separated into different folds and labelled as the train, validation or test set. The trailing number in the file names refers to the fold number.
