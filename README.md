@@ -7,3 +7,4 @@ Trained model for two data folds are given in the files : [FPNFold1](FPNFold1) a
 
 The adapted architecture:
 ![Architecture](https://github.com/user-attachments/assets/ee873f86-4253-4209-86d0-db576edfe141)
+![image](https://github.com/user-attachments/assets/eb7e4f43-8a8e-4a07-8a2f-1c11b9f81983)
