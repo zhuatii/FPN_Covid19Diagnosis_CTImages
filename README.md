@@ -6,5 +6,5 @@ The main code is given in the Jupyter Notebook file : [FPN_Train&Validation.ipyn
 Trained model for two data folds are given in the files : [FPNFold1](FPNFold1) and [FPNFold2](FPNFold2)
 
 The adapted architecture:
-![Architecture](https://github.com/user-attachments/assets/ee873f86-4253-4209-86d0-db576edfe141)
-![image](https://github.com/user-attachments/assets/eb7e4f43-8a8e-4a07-8a2f-1c11b9f81983)
+
+![Untitled](https://github.com/user-attachments/assets/36351c28-b922-48a0-848e-d35ef1719ef5)
